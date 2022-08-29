@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    align-items: center;
+    background: linear-gradient(90deg,rgb(182, 80, 238) 5.67%, #EE6334 100% );
+}
+
+header > h1{
+    letter-spacing: .1em;
+    margin: 2rem;
+    margin-right: auto;
+    color: rgba(255, 255, 255, 0.738);
+    text-shadow: .3em .2em .1em rgba(25,25,25, 0.5);
+}
+header > div > h3{
+    letter-spacing: -.05em;
+    margin: 2rem;
+    color: rgba(255, 255, 255, 0.738);
+    text-shadow: .3em .2em .3em rgba(25,25,25, 0.5);
+}
+
+.email{
+    margin-right: 2rem;
+}

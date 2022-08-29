@@ -1,0 +1,26 @@
+.job--container{
+    background-color: rgba(27, 27, 27, 0.813);
+    height: 100%;
+}
+
+div > p{
+    margin-left: 1rem;
+}
+
+.job--title{
+    font-weight: 700;
+    font-family: 'Silkscreen', cursive;
+    color: rgb(182, 64, 228);
+    text-shadow: .5em .4em .2em rgba(12, 12, 12, 0.5);
+}
+
+.job--date{
+    font-size: .9rem;
+    color: white;
+    font-family: 'Silkscreen', cursive;
+}
+
+.job--description{
+    font-family: 'Silkscreen', cursive;
+    color: rgb(143, 131, 131);
+}

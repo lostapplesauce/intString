@@ -1,0 +1,26 @@
+.Bits--container{
+    position: absolute;
+    cursor: move;
+    color: black;
+    max-width: auto;
+    border-radius: 5px;
+    padding: 1em;
+    margin: auto;
+    user-select: none;
+    background-color: black;
+}
+.Bits--topBar{
+    background-color: blue;
+    width: 100%;
+}
+.Bits--topBar > button{
+    font-size: medium;
+    margin-left: 97%;
+}
+.Bits--container > img{
+    height: 120px;
+    margin: 5px;
+}
+.Bits--container > h4{
+    align-content: center;
+}
